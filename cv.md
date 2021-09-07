@@ -12,3 +12,11 @@
  I started learning the Front-end from the beginning, using various resources and schools, for example, HTML Academy, Udemy and free videos from YouTube.
 
  It's not easy to change my life and choose a new profession, but I really love to study, I feel happy when I see my good result, and this motivates me to be the best and do more and more.
+
+ # Skills
+ - HTML&CSS (base)
+ - JS (base)
+ - Figma
+ - Photoshop
+ - User experience
+ - Project managment
