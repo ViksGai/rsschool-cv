@@ -35,11 +35,11 @@ _Sep 2015 - Sep 2017_
 
 # Languges
 **Russian**\
-_Native_\
+_Native_
 
 **English**\
-_B1+_\
+_B1+_
 
 **Polish**\
-_B1_\
+_B1_
 
