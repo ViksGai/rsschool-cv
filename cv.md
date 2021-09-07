@@ -1,5 +1,5 @@
 #  Viktoriia Gainulina 
-![photo](C:\Users\User\Desktop\RS Stage#1\rsschool-cv)
+![photo](C:\Users\User\Desktop\RS Stage#1\rsschool-cv\Viktoriia_Gainulina.jpeg)
 ## Junior Frontend Developer
 ### Contacts
 * E-mail: v@gaynulina.ru 
