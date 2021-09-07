@@ -21,13 +21,14 @@
  - Photoshop
  - User experience
  - Project managment
+
 # EMPLOYMENT HISTORY
 ## Brand-manager, TUI Russia&CIS   
-_Moscow_
+_Moscow_,
 _Aug 2019 - Dec 2019_
 ## Senior marketing manager of Business Travel Department,UTS    
-_Moscow_
+_Moscow_,
 _Sep 2017 - Aug 2019_
 ## Marketing manager,UTS
-_Moscow_
+_Moscow_,
 _Sep 2015 - Sep 2017_
