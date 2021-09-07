@@ -1,9 +1,9 @@
 #  Viktoriia Gainulina 
 ## Junior Frontend Developer
 ### Contacts
-    * E-mail: v@gaynulina.ru 
-    * Tel: +48 506 294 044
-    * Telegram: @vikichki
+* E-mail: v@gaynulina.ru 
+* Tel: +48 506 294 044
+* Telegram: @vikichki
 
 # About Myself
 
