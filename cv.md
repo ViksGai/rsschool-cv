@@ -71,4 +71,12 @@ password.oninput = function () {
 
 };
 ```
+# Education
+1) **HTML&CSS: development basics** (Udemy)
+![certificate1](C:\Users\User\Desktop\RS Stage#1\rsschool-cv\HTML_CSS_2020.pdf)
+2) **HTML&CSS: Dashboard** (Udemy)
+![certificate2](C:\Users\User\Desktop\RS Stage#1\rsschool-cv\HTML_CSS_Dashboard_2020)
+3) **Java Script intensive** (Udemy)
+![certificate3](C:\Users\User\Desktop\RS Stage#1\rsschool-cv\JS_2020)
+
 
