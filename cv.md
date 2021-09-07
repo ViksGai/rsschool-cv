@@ -1,5 +1,5 @@
 #  Viktoriia Gainulina 
-![photo](https://drive.google.com/file/d/1U7y1G1W5WnlGX_WVPvcc9hY8EQDnXsvb/view?usp=sharing)
+![photo](https://drive.google.com/file/d/1lj8HjTV13bDasuE4ORyPO6F6Rr9raofh/view?usp=sharing)
 ## Junior Frontend Developer
 ### Contacts
 * E-mail: v@gaynulina.ru 
@@ -76,7 +76,7 @@ password.oninput = function () {
 
 2) [**HTML&CSS: Dashboard**](https://drive.google.com/file/d/1FWeHrdZtckEtNMPEZ1mrL4NtDtCRhstU/view?usp=sharing) (Udemy)
 
-3) [**Java Script intensive**] (Udemy)
-(https://drive.google.com/file/d/18hlZ-wPTye9_mxEM1__ltYOpwDn7a25J/view?usp=sharing)
+3) [**Java Script intensive**](https://drive.google.com/file/d/18hlZ-wPTye9_mxEM1__ltYOpwDn7a25J/view?usp=sharing) (Udemy)
+
 
 
