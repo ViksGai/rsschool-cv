@@ -1,5 +1,5 @@
 #  Viktoriia Gainulina 
-![photo](https://drive.google.com/file/d/1lj8HjTV13bDasuE4ORyPO6F6Rr9raofh/view?usp=sharing)
+![photo](https://drive.google.com/file/d/1lj8HjTV13bDasuE4ORyPO6F6Rr9raofh/view?usp=sharing.jpeg)
 ## Junior Frontend Developer
 ### Contacts
 * E-mail: v@gaynulina.ru 
