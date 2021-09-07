@@ -32,3 +32,14 @@ _Sep 2017 - Aug 2019_
 ## Marketing manager,UTS
 _Moscow_,
 _Sep 2015 - Sep 2017_
+
+# Languges
+**Russian**\
+_Native_\
+
+**English**\
+_B1+_\
+
+**Polish**\
+_B1_\
+
