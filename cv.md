@@ -66,7 +66,7 @@ _**Faculty Journalism**_
 # Code example 
 ### HTML Academy. JS. Registration page (trainer)
 ```
-# let password = document.querySelector('.password');
+let password = document.querySelector('.password');
 let showPassword = document.querySelector('.show-password');
 let securityBar = document.querySelector('.security-bar');
 
