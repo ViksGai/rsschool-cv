@@ -1,5 +1,5 @@
 #  Viktoriia Gainulina 
-![photo](https://drive.google.com/file/d/1lj8HjTV13bDasuE4ORyPO6F6Rr9raofh/view?usp=sharing.jpeg)
+![photo](./viktoriia_gainulina.jpg)
 ## Junior Frontend Developer
 ### Contacts
 * E-mail: v@gaynulina.ru 
@@ -14,6 +14,8 @@
 
  It's not easy to change my life and choose a new profession, but I really love to study, I feel happy when I see my good result, and this motivates me to be the best and do more and more.
 
+ [**Let's just get acquainted**](https://youtu.be/SRkEUT72jD4)
+
 # Skills
  - HTML&CSS (base)
  - JS (base)
@@ -22,7 +24,7 @@
  - User experience
  - Project managment
 
-# EMPLOYMENT HISTORY
+# Employment History
 ## Brand-manager, TUI Russia&CIS   
 _Moscow_,
 _Aug 2019 - Dec 2019_
@@ -42,6 +44,24 @@ _B1+_
 
 **Polish**\
 _B1_
+
+# Education
+**Bachelor's degree, Moscow State University of Printing Arts**\
+_Sep 2015 - Sep 2017_\
+_**Faculty Journalism**_
+
+### Courses
+1) [**HTML&CSS: development basics**](https://drive.google.com/file/d/13WW06ZpgV6zYuPU4JWd_Gp98l0T_YT30/view?usp=sharing) (Udemy)
+
+2) [**HTML&CSS: Dashboard**](https://drive.google.com/file/d/1FWeHrdZtckEtNMPEZ1mrL4NtDtCRhstU/view?usp=sharing) (Udemy)
+
+3) [**Java Script intensive**](https://drive.google.com/file/d/18hlZ-wPTye9_mxEM1__ltYOpwDn7a25J/view?usp=sharing) (Udemy)
+
+4) HTML&CSS, Java Script, PHP. HTML Academy (in process)
+
+5) [**Figma**](https://drive.google.com/file/d/1E9CZFAcmCmnkUPzC3fxHfjt9tzYEHRAD/view?usp=sharing) (Udemy)
+
+
 
 # Code example 
 ### HTML Academy. JS. Registration page (trainer)
@@ -71,12 +91,3 @@ password.oninput = function () {
 
 };
 ```
-# Education
-1) [**HTML&CSS: development basics**](https://drive.google.com/file/d/13WW06ZpgV6zYuPU4JWd_Gp98l0T_YT30/view?usp=sharing) (Udemy)
-
-2) [**HTML&CSS: Dashboard**](https://drive.google.com/file/d/1FWeHrdZtckEtNMPEZ1mrL4NtDtCRhstU/view?usp=sharing) (Udemy)
-
-3) [**Java Script intensive**](https://drive.google.com/file/d/18hlZ-wPTye9_mxEM1__ltYOpwDn7a25J/view?usp=sharing) (Udemy)
-
-
-
