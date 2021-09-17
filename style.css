@@ -37,6 +37,7 @@ header {
 
 nav {
     margin: 0 auto;
+    
 }
 
 nav > ul {
@@ -52,7 +53,7 @@ nav > ul {
 nav > ul > li {
     font-size: 1.25em;
     margin: 0 1em;
-    font-weight: bold;
+    
 }
 
 nav > ul > li > a {
@@ -60,6 +61,9 @@ nav > ul > li > a {
     text-decoration: none;
     line-height: 2.5em;
     padding: .25em;
+    font-weight: bold;
+    scroll-behavior: smooth;
+    
 }
 
 nav > ul > li > a:hover {
@@ -77,6 +81,25 @@ header > div  {
 header > div  > img{
     width: 20em;
 }
+
+
+.burger__menu {
+    margin-top: 1em;
+    padding: 0;
+    display: none;
+    
+    
+
+    
+}
+
+.burger__menu > img {
+    width: 2em;
+       
+    
+}
+
+
 
 main {
     background: url(./pictures/background_leftside.svg) no-repeat top left;
@@ -238,19 +261,71 @@ footer > a:last-child > img{
 
 }
 
+
+@media (max-width: 1400px) {
+    /* .burger__menu {
+    display: none;
+    } */
+}
+
 @media (max-width: 1200px) {
     body {
         font-size: 15px;
     }
+    
 }
 
 @media (max-width: 900px) {
     body {
         font-size: 14px;
     }
+    
 }
 
 @media (max-width: 780px) {
+    .burger__menu {
+        display: block;
+    }
+   nav {
+    display: flex;
+    width: 100%;
+    height: 50%;
+    margin-top:5em;
+    z-index: 18;
+    position: absolute;
+    left: -780px;
+   
+  
+}
+
+.menu.open::before{
+    content: " ";
+    position: absolute;
+    width: 20%; 
+    height: 100%;  
+    opacity: .4; 
+    z-index: -1;
+    background-color: #ffffff;
+    transition: 0.5s;
+  
+}
+
+.menu.open {
+    
+    left: 0;
+    transition: 0.5s;
+}
+    
+    nav > ul  {
+        flex-direction: column;
+        display: block;  
+        
+        
+                      
+    }
+   
+    
+    
     body {
         font-size: 12px;
     }
@@ -261,22 +336,53 @@ footer > a:last-child > img{
     main:before{
         display: none;
     }
+    
     .main__left-side{
         background: none;
     }
-    
+    .main__container {
+        background: none;
+    }
+    .main__video > iframe{
+        width: 40em;
+        height: 30em;
+    }
 }
+    
+    
+
 
 @media (max-width: 550px) {
+     
     body {
         font-size: 11px;
     }
 
-    nav > ul > li {
-        margin: 0 .35em;
-    }
     .main__video > iframe{
         width: 30em;
         height: 20em;
     }
+
+    
+}
+
+@media (max-width: 450px) {
+    h1{
+    font-size: 2em;
+}
+.main__video > iframe{
+    width: 30em;
+    height: 20em;
+
+} 
+}
+
+@media (max-width: 350px) {
+    .main__video > iframe{
+        width: 20em;
+        height: 10em;
+}
+h1{
+    font-size: 1.5em;
+}
 }
