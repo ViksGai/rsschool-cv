@@ -5,13 +5,17 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    
     <meta charset="UTF-8">
     <title>CV Viktoriia Gainulina</title>
 </head>
 <body>
 
 <header>
-    <nav>
+    <div class="burger__menu">
+        <img class="burger__icon" src="./icons/burger.svg">
+    </div>
+    <nav class="menu">
         <ul>
             <li><a href="#t1">About me</a></li>
             <li><a href="#t2">Experience</a></li>
@@ -20,7 +24,8 @@
             <li><a href="#t5">Contacts</a></li>
         </ul>
     </nav>
-    <div>
+    
+    <div class="avatar">
         <img src="./pictures/photo.png" alt="photo">
         <h1>Viktoriia <br> Gainulina</h1>
     </div>
@@ -29,8 +34,8 @@
 <main>
     <div class="main__container">
         <div class="main__left-side">
-            <section>
-                <h2 id="t4">Skills</h2>
+            <section id="t4">
+                <h2 >Skills</h2>
                 <ul class="yellow-ul">
                     <li>HTML&CSS (base)</li>
                     <li>JS (base)</li>
@@ -48,8 +53,8 @@
                     <li><label>Polish</label> <span>B1</span></li>
                 </ul>
             </section>
-            <section>
-                <h2 id="t5">Contacts</h2>
+            <section id="t5">
+                <h2>Contacts</h2>
                 <ul class="yellow-ul">
                     <li>E-mail: v@gaynulina.ru</li>
                     <li>Tel: +48 506 294 044</li>
@@ -133,6 +138,7 @@
     <a href="https://rs.school/js/" target="_blank"><img src="./logo/rs_school_js.svg" alt="rs icon">
     </a>
 </footer>
+<script src="./script.js"></script>
 </body>
 
 </html>
